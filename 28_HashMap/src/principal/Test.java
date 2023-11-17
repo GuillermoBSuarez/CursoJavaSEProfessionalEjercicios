@@ -19,6 +19,7 @@ public class Test {
 		
 		System.out.println(dias);
 		
+		// No se puede recorrer el HashMap entero, hay que recorrer las claves o los valores.
 		for (String s:dias.values()) {
 			System.out.println(s);
 		}
