@@ -1,17 +1,5 @@
 package view;
 
-/* Programa de gestión de productos
- * 1. Nuevo producto: pide datos y guarda
- * 2. Bajar precios: pide porcentaje y baja todos
- * 3. Ordenar productos: ordena por precio, no muestra nada
- * 4. Eliminar productos: pide categoría y elimina todos los de la misma
- * 5. Subir precios por categoría: pide categoría y porcentaje y sube sólo los de esa categoría
- * 6. Mostrar todos los productos
- * 7. Salir
- * 
- * Producto: nombre, precio y categoría
- */
-
 import java.util.Scanner;
 
 import service.ServiceProductos;
