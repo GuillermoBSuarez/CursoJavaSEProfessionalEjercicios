@@ -1,6 +1,6 @@
 // Implementación de interfaces funcionales DESDE de Java 8: expresiones lambda.
 
-package principal;
+package ImplementacionFuncionalLambda;
 
 import java.util.function.BiPredicate;
 

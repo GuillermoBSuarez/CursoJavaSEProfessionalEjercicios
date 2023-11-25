@@ -1,6 +1,6 @@
 // Implementación de interfaces funcionales ANTES de Java 8
 
-package principal;
+package ImplementacionFuncionalClasica;
 
 // 1. Dada una interfaz funcional...
 interface Printer{
